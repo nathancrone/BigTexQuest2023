@@ -10,6 +10,6 @@ features:
 - title: Compete
   details: Earn more points than anyone else for bragging rights.
 - title: Have Fun
-  details: A world of adventure awaits
+  details: A world of adventure awaits!
 footer: Made by BEI IT with ❤️
 ---
