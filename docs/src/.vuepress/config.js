@@ -1,7 +1,6 @@
 const { description } = require('../../package')
 
 module.exports = {
-  dest: '.vuepress/deploy', 
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
