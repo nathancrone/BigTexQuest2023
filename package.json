@@ -1,0 +1,17 @@
+{
+  "name": "BigTexQuest2023",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "scripts": {
+    "build": "cd docs && npm install --force && npm run build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    
+  }
+}
